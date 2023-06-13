@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f15e07c4.css",
-    "main.js": "/static/js/main.fa74ea74.js",
+    "main.css": "/static/css/main.1d141b1d.css",
+    "main.js": "/static/js/main.f945791e.js",
     "static/js/787.d3fd115d.chunk.js": "/static/js/787.d3fd115d.chunk.js",
     "static/media/Square_06.png": "/static/media/Square_06.fd3d20450e0fb76df6d5.png",
     "static/media/Square_03.png": "/static/media/Square_03.2a9ee2adaa2b2c36ef63.png",
@@ -90,12 +90,12 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.f15e07c4.css.map": "/static/css/main.f15e07c4.css.map",
-    "main.fa74ea74.js.map": "/static/js/main.fa74ea74.js.map",
+    "main.1d141b1d.css.map": "/static/css/main.1d141b1d.css.map",
+    "main.f945791e.js.map": "/static/js/main.f945791e.js.map",
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15e07c4.css",
-    "static/js/main.fa74ea74.js"
+    "static/css/main.1d141b1d.css",
+    "static/js/main.f945791e.js"
   ]
 }
