@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d141b1d.css",
-    "main.js": "/static/js/main.f945791e.js",
+    "main.css": "/static/css/main.f3144d2e.css",
+    "main.js": "/static/js/main.6ab6d056.js",
     "static/js/787.d3fd115d.chunk.js": "/static/js/787.d3fd115d.chunk.js",
+    "static/media/DS_AustinSeven_Walkthrough_4K.mp4": "/static/media/DS_AustinSeven_Walkthrough_4K.5a46926d42a129c030ec.mp4",
+    "static/media/DS_AustinSeven_FrontShot_4K.mp4": "/static/media/DS_AustinSeven_FrontShot_4K.162f9491acc463d11249.mp4",
+    "static/media/AustinSeven_Vehicle.png": "/static/media/AustinSeven_Vehicle.0a84124e2b25658c556f.png",
     "static/media/Square_06.png": "/static/media/Square_06.fd3d20450e0fb76df6d5.png",
     "static/media/Square_03.png": "/static/media/Square_03.2a9ee2adaa2b2c36ef63.png",
     "static/media/Square_08.png": "/static/media/Square_08.eeb7c207f5f2de5c7cf8.png",
@@ -22,7 +25,9 @@
     "static/media/DS_SMY002_02.jpg": "/static/media/DS_SMY002_02.efc15a9cad94726597c9.jpg",
     "static/media/DS_SMY002_12.jpg": "/static/media/DS_SMY002_12.63d24b313967de1897ec.jpg",
     "static/media/DS_SMY002_16.jpg": "/static/media/DS_SMY002_16.7bc26f91d0156c697692.jpg",
+    "static/media/AustinSeven_Wireframe.jpg": "/static/media/AustinSeven_Wireframe.2e0db5fe982a234f8c56.jpg",
     "static/media/Featured_Otice.jpg": "/static/media/Featured_Otice.f00ac0fa377c447c4b74.jpg",
+    "static/media/AustinSeven_01.jpg": "/static/media/AustinSeven_01.3d80a46b7c38839b10f5.jpg",
     "static/media/Media_Desert_02.jpg": "/static/media/Media_Desert_02.99cd08e5caa6a85564e7.jpg",
     "static/media/DS_SMY002_07.jpg": "/static/media/DS_SMY002_07.0dbc0752cd0b91ed2203.jpg",
     "static/media/DS_SMY002_19.jpg": "/static/media/DS_SMY002_19.a1eb9f624cf801d011ba.jpg",
@@ -90,12 +95,12 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.1d141b1d.css.map": "/static/css/main.1d141b1d.css.map",
-    "main.f945791e.js.map": "/static/js/main.f945791e.js.map",
+    "main.f3144d2e.css.map": "/static/css/main.f3144d2e.css.map",
+    "main.6ab6d056.js.map": "/static/js/main.6ab6d056.js.map",
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d141b1d.css",
-    "static/js/main.f945791e.js"
+    "static/css/main.f3144d2e.css",
+    "static/js/main.6ab6d056.js"
   ]
 }
