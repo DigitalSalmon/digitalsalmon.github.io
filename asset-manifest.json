@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3144d2e.css",
-    "main.js": "/static/js/main.6ab6d056.js",
+    "main.css": "/static/css/main.dc8e430b.css",
+    "main.js": "/static/js/main.34fcf71d.js",
     "static/js/787.d3fd115d.chunk.js": "/static/js/787.d3fd115d.chunk.js",
-    "static/media/DS_AustinSeven_Walkthrough_4K.mp4": "/static/media/DS_AustinSeven_Walkthrough_4K.5a46926d42a129c030ec.mp4",
-    "static/media/DS_AustinSeven_FrontShot_4K.mp4": "/static/media/DS_AustinSeven_FrontShot_4K.162f9491acc463d11249.mp4",
-    "static/media/AustinSeven_Vehicle.png": "/static/media/AustinSeven_Vehicle.0a84124e2b25658c556f.png",
+    "static/media/DS_AustinSeven_Walkthrough_1080.mp4": "/static/media/DS_AustinSeven_Walkthrough_1080.98abe6b9016ef9e43462.mp4",
+    "static/media/DS_AustinSeven_FrontShot_1080.mp4": "/static/media/DS_AustinSeven_FrontShot_1080.88774704c861b9ab3df3.mp4",
+    "static/media/AustinSeven_Vehicle.png": "/static/media/AustinSeven_Vehicle.b3a9e7e07fb4f739a7c1.png",
     "static/media/Square_06.png": "/static/media/Square_06.fd3d20450e0fb76df6d5.png",
     "static/media/Square_03.png": "/static/media/Square_03.2a9ee2adaa2b2c36ef63.png",
     "static/media/Square_08.png": "/static/media/Square_08.eeb7c207f5f2de5c7cf8.png",
@@ -25,15 +25,16 @@
     "static/media/DS_SMY002_02.jpg": "/static/media/DS_SMY002_02.efc15a9cad94726597c9.jpg",
     "static/media/DS_SMY002_12.jpg": "/static/media/DS_SMY002_12.63d24b313967de1897ec.jpg",
     "static/media/DS_SMY002_16.jpg": "/static/media/DS_SMY002_16.7bc26f91d0156c697692.jpg",
-    "static/media/AustinSeven_Wireframe.jpg": "/static/media/AustinSeven_Wireframe.2e0db5fe982a234f8c56.jpg",
     "static/media/Featured_Otice.jpg": "/static/media/Featured_Otice.f00ac0fa377c447c4b74.jpg",
-    "static/media/AustinSeven_01.jpg": "/static/media/AustinSeven_01.3d80a46b7c38839b10f5.jpg",
+    "static/media/AustinSeven_Wireframe.jpg": "/static/media/AustinSeven_Wireframe.6f8a734dd8f8e0ac01a0.jpg",
+    "static/media/AustinSeven_01.jpg": "/static/media/AustinSeven_01.1b5e1c7d26adfa61a00b.jpg",
     "static/media/Media_Desert_02.jpg": "/static/media/Media_Desert_02.99cd08e5caa6a85564e7.jpg",
     "static/media/DS_SMY002_07.jpg": "/static/media/DS_SMY002_07.0dbc0752cd0b91ed2203.jpg",
     "static/media/DS_SMY002_19.jpg": "/static/media/DS_SMY002_19.a1eb9f624cf801d011ba.jpg",
     "static/media/Featured_AR.jpg": "/static/media/Featured_AR.cc462c3f9e3a6103ad9e.jpg",
     "static/media/Media_Mountain.jpg": "/static/media/Media_Mountain.8b4b2f0b30508699c247.jpg",
     "static/media/Sudoku_Featured.png": "/static/media/Sudoku_Featured.f104d39379d2e67ca0b5.png",
+    "static/media/DS_AustinSeven_Remax_4k.jpg": "/static/media/DS_AustinSeven_Remax_4k.f45c73750f7bab0c80f8.jpg",
     "static/media/BSplineFeatured.jpg": "/static/media/BSplineFeatured.46fe613f0277ccd736a2.jpg",
     "static/media/Featured_VR.jpg": "/static/media/Featured_VR.a08af216360157ae1fe1.jpg",
     "static/media/Featured_RTXKitchen.jpg": "/static/media/Featured_RTXKitchen.25211169fb9f2bae9253.jpg",
@@ -95,12 +96,12 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.f3144d2e.css.map": "/static/css/main.f3144d2e.css.map",
-    "main.6ab6d056.js.map": "/static/js/main.6ab6d056.js.map",
+    "main.dc8e430b.css.map": "/static/css/main.dc8e430b.css.map",
+    "main.34fcf71d.js.map": "/static/js/main.34fcf71d.js.map",
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3144d2e.css",
-    "static/js/main.6ab6d056.js"
+    "static/css/main.dc8e430b.css",
+    "static/js/main.34fcf71d.js"
   ]
 }
