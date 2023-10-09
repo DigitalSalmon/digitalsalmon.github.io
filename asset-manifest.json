@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0bd24f7.css",
-    "main.js": "/static/js/main.d9aadc33.js",
-    "static/css/662.cc97b307.chunk.css": "/static/css/662.cc97b307.chunk.css",
+    "main.css": "/static/css/main.dacfbe10.css",
+    "main.js": "/static/js/main.97a00d2c.js",
+    "static/css/662.6dbdc6e3.chunk.css": "/static/css/662.6dbdc6e3.chunk.css",
     "static/js/662.4328ddeb.chunk.js": "/static/js/662.4328ddeb.chunk.js",
     "static/css/235.f6d2763c.chunk.css": "/static/css/235.f6d2763c.chunk.css",
     "static/js/235.7c03f804.chunk.js": "/static/js/235.7c03f804.chunk.js",
@@ -34,20 +34,24 @@
     "static/media/DS_SMY002_02.jpg": "/static/media/DS_SMY002_02.efc15a9cad94726597c9.jpg",
     "static/media/DS_SMY002_12.jpg": "/static/media/DS_SMY002_12.63d24b313967de1897ec.jpg",
     "static/media/DS_SMY002_16.jpg": "/static/media/DS_SMY002_16.7bc26f91d0156c697692.jpg",
-    "static/media/Featured_Otice.jpg": "/static/media/Featured_Otice.f00ac0fa377c447c4b74.jpg",
     "static/media/AustinSeven_Wireframe.jpg": "/static/media/AustinSeven_Wireframe.6f8a734dd8f8e0ac01a0.jpg",
     "static/media/AustinSeven_01.jpg": "/static/media/AustinSeven_01.1b5e1c7d26adfa61a00b.jpg",
     "static/media/Media_Desert_02.jpg": "/static/media/Media_Desert_02.99cd08e5caa6a85564e7.jpg",
     "static/media/DS_SMY002_07.jpg": "/static/media/DS_SMY002_07.0dbc0752cd0b91ed2203.jpg",
+    "static/media/DS_SMY002_04.jpg": "/static/media/DS_SMY002_04.910866b90962f9df6d7c.jpg",
+    "static/media/Shot_02.jpg": "/static/media/Shot_02.383e769cb709cc9657fd.jpg",
     "static/media/DS_SMY002_19.jpg": "/static/media/DS_SMY002_19.a1eb9f624cf801d011ba.jpg",
+    "static/media/Shot_04.jpg": "/static/media/Shot_04.7ae61e1fd8824f590ae3.jpg",
     "static/media/Featured.jpg": "/static/media/Featured.fa0fe1bfeb496fe69b90.jpg",
+    "static/media/Shot_01.jpg": "/static/media/Shot_01.f0dd742df19062f68c1a.jpg",
     "static/media/Featured_AR.jpg": "/static/media/Featured_AR.cc462c3f9e3a6103ad9e.jpg",
     "static/media/Media_Mountain.jpg": "/static/media/Media_Mountain.8b4b2f0b30508699c247.jpg",
     "static/media/Sudoku_Featured.png": "/static/media/Sudoku_Featured.f104d39379d2e67ca0b5.png",
     "static/media/SingleRing.mp4": "/static/media/SingleRing.9a35f4fc718b7852b591.mp4",
+    "static/media/FordETransit_05.jpg": "/static/media/FordETransit_05.7644f31b1d7b82a7ada2.jpg",
     "static/media/BSplineFeatured.jpg": "/static/media/BSplineFeatured.46fe613f0277ccd736a2.jpg",
+    "static/media/FordETransit_01.jpg": "/static/media/FordETransit_01.ccc535fd31986b799554.jpg",
     "static/media/Interior_09.jpg": "/static/media/Interior_09.356968a5ba4ba787c8f8.jpg",
-    "static/media/FordETransit_01.jpg": "/static/media/FordETransit_01.18a2878abaf207ffd0a2.jpg",
     "static/media/Gramophone.png": "/static/media/Gramophone.da418467216395d464fd.png",
     "static/media/Interior_06.jpg": "/static/media/Interior_06.38f8f7b0b98763373d84.jpg",
     "static/media/FordExplorer_06_Wire.jpg": "/static/media/FordExplorer_06_Wire.566ca0ad33159c1186ca.jpg",
@@ -112,9 +116,9 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.a0bd24f7.css.map": "/static/css/main.a0bd24f7.css.map",
-    "main.d9aadc33.js.map": "/static/js/main.d9aadc33.js.map",
-    "662.cc97b307.chunk.css.map": "/static/css/662.cc97b307.chunk.css.map",
+    "main.dacfbe10.css.map": "/static/css/main.dacfbe10.css.map",
+    "main.97a00d2c.js.map": "/static/js/main.97a00d2c.js.map",
+    "662.6dbdc6e3.chunk.css.map": "/static/css/662.6dbdc6e3.chunk.css.map",
     "662.4328ddeb.chunk.js.map": "/static/js/662.4328ddeb.chunk.js.map",
     "235.f6d2763c.chunk.css.map": "/static/css/235.f6d2763c.chunk.css.map",
     "235.7c03f804.chunk.js.map": "/static/js/235.7c03f804.chunk.js.map",
@@ -129,7 +133,7 @@
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0bd24f7.css",
-    "static/js/main.d9aadc33.js"
+    "static/css/main.dacfbe10.css",
+    "static/js/main.97a00d2c.js"
   ]
 }
