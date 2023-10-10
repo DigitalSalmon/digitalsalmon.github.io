@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab7c738f.css",
-    "main.js": "/static/js/main.12f52134.js",
+    "main.js": "/static/js/main.bce21b3b.js",
     "static/css/235.f6d2763c.chunk.css": "/static/css/235.f6d2763c.chunk.css",
     "static/js/235.7c03f804.chunk.js": "/static/js/235.7c03f804.chunk.js",
     "static/css/499.8e42821b.chunk.css": "/static/css/499.8e42821b.chunk.css",
@@ -65,10 +65,14 @@
     "static/media/FordExplorer_07.jpg": "/static/media/FordExplorer_07.aa464ed9dbeaaa5efe2c.jpg",
     "static/media/HarmonicFeatured.jpg": "/static/media/HarmonicFeatured.9d52f2b1a8a8259e45f8.jpg",
     "static/media/Interior_07.jpg": "/static/media/Interior_07.a253ae1bf9a163649185.jpg",
+    "static/media/AustinSeven_01-placeholder.jpg": "/static/media/AustinSeven_01-placeholder.ab333c161a9be8066d54.jpg",
     "static/media/SDFFeatured.jpg": "/static/media/SDFFeatured.af1f7eec08468a3afbee.jpg",
+    "static/media/DS_SMY002_15-placeholder.jpg": "/static/media/DS_SMY002_15-placeholder.4e428b6c01cfb02fdbb7.jpg",
     "static/media/PipelineFeatured.jpg": "/static/media/PipelineFeatured.ed54ce7f60dda009a2eb.jpg",
+    "static/media/Featured_AR-placeholder.jpg": "/static/media/Featured_AR-placeholder.d4f454317db170c6ff40.jpg",
     "static/media/Sudoku.png": "/static/media/Sudoku.51696b597511b99e5af1.png",
     "static/media/SudokuBlank.png": "/static/media/SudokuBlank.b84001afe842dcdb4ccf.png",
+    "static/media/FordETransit_01-placeholder.jpg": "/static/media/FordETransit_01-placeholder.f4f06bc2770d79e5cfbb.jpg",
     "static/media/channel_rgb.png": "/static/media/channel_rgb.32576197ff1168f14afd.png",
     "static/media/sdSphere.jpg": "/static/media/sdSphere.e097a7661c8a27959b4e.jpg",
     "static/media/sphereGraph.jpg": "/static/media/sphereGraph.27dcd16414d8fb5f171d.jpg",
@@ -115,7 +119,7 @@
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
     "main.ab7c738f.css.map": "/static/css/main.ab7c738f.css.map",
-    "main.12f52134.js.map": "/static/js/main.12f52134.js.map",
+    "main.bce21b3b.js.map": "/static/js/main.bce21b3b.js.map",
     "235.f6d2763c.chunk.css.map": "/static/css/235.f6d2763c.chunk.css.map",
     "235.7c03f804.chunk.js.map": "/static/js/235.7c03f804.chunk.js.map",
     "499.8e42821b.chunk.css.map": "/static/css/499.8e42821b.chunk.css.map",
@@ -130,6 +134,6 @@
   },
   "entrypoints": [
     "static/css/main.ab7c738f.css",
-    "static/js/main.12f52134.js"
+    "static/js/main.bce21b3b.js"
   ]
 }
