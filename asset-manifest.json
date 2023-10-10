@@ -1,9 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dacfbe10.css",
-    "main.js": "/static/js/main.97a00d2c.js",
-    "static/css/662.6dbdc6e3.chunk.css": "/static/css/662.6dbdc6e3.chunk.css",
-    "static/js/662.4328ddeb.chunk.js": "/static/js/662.4328ddeb.chunk.js",
+    "main.css": "/static/css/main.ab7c738f.css",
+    "main.js": "/static/js/main.12f52134.js",
     "static/css/235.f6d2763c.chunk.css": "/static/css/235.f6d2763c.chunk.css",
     "static/js/235.7c03f804.chunk.js": "/static/js/235.7c03f804.chunk.js",
     "static/css/499.8e42821b.chunk.css": "/static/css/499.8e42821b.chunk.css",
@@ -116,10 +114,8 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.dacfbe10.css.map": "/static/css/main.dacfbe10.css.map",
-    "main.97a00d2c.js.map": "/static/js/main.97a00d2c.js.map",
-    "662.6dbdc6e3.chunk.css.map": "/static/css/662.6dbdc6e3.chunk.css.map",
-    "662.4328ddeb.chunk.js.map": "/static/js/662.4328ddeb.chunk.js.map",
+    "main.ab7c738f.css.map": "/static/css/main.ab7c738f.css.map",
+    "main.12f52134.js.map": "/static/js/main.12f52134.js.map",
     "235.f6d2763c.chunk.css.map": "/static/css/235.f6d2763c.chunk.css.map",
     "235.7c03f804.chunk.js.map": "/static/js/235.7c03f804.chunk.js.map",
     "499.8e42821b.chunk.css.map": "/static/css/499.8e42821b.chunk.css.map",
@@ -133,7 +129,7 @@
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dacfbe10.css",
-    "static/js/main.97a00d2c.js"
+    "static/css/main.ab7c738f.css",
+    "static/js/main.12f52134.js"
   ]
 }
