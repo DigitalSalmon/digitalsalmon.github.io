@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.836c6803.css",
-    "main.js": "/static/js/main.49348c01.js",
+    "main.css": "/static/css/main.c6928456.css",
+    "main.js": "/static/js/main.5a46c7b0.js",
     "static/css/235.f6d2763c.chunk.css": "/static/css/235.f6d2763c.chunk.css",
     "static/js/235.7c03f804.chunk.js": "/static/js/235.7c03f804.chunk.js",
     "static/css/499.8e42821b.chunk.css": "/static/css/499.8e42821b.chunk.css",
@@ -9,8 +9,8 @@
     "static/css/230.2d188e4c.chunk.css": "/static/css/230.2d188e4c.chunk.css",
     "static/js/230.68808a34.chunk.js": "/static/js/230.68808a34.chunk.js",
     "static/js/787.d3fd115d.chunk.js": "/static/js/787.d3fd115d.chunk.js",
-    "static/media/DS_IMG025_FordEtransitCustom_230922.mp4": "/static/media/DS_IMG025_FordEtransitCustom_230922.4173bd8058988e7df1ff.mp4",
     "static/media/DS_AustinSeven_Walkthrough_1080p.mp4": "/static/media/DS_AustinSeven_Walkthrough_1080p.7b623a8b0c8272db787e.mp4",
+    "static/media/DS_IMG025_FordEtransitCustom_27102023.mp4": "/static/media/DS_IMG025_FordEtransitCustom_27102023.0678535aa40c01eeee25.mp4",
     "static/media/DS_AustinSeven_FrontShot_1080p.mp4": "/static/media/DS_AustinSeven_FrontShot_1080p.cd2d8faa2c7274387ccd.mp4",
     "static/media/SandSplines_09.jpg": "/static/media/SandSplines_09.5d34580af06e18ec2a9f.jpg",
     "static/media/Process.mp4": "/static/media/Process.30cf8bd48a3f160abf19.mp4",
@@ -34,13 +34,13 @@
     "static/media/Shot_04.jpg": "/static/media/Shot_04.7ae61e1fd8824f590ae3.jpg",
     "static/media/DS_SMY002_12.jpg": "/static/media/DS_SMY002_12.b208723f9e45fb764a58.jpg",
     "static/media/DS_SMY002_16.jpg": "/static/media/DS_SMY002_16.7ba8f77c40d07599e791.jpg",
+    "static/media/FordETransit_07.jpg": "/static/media/FordETransit_07.00299f2749dfdc0e442d.jpg",
     "static/media/Featured.jpg": "/static/media/Featured.fa0fe1bfeb496fe69b90.jpg",
     "static/media/Shot_01.jpg": "/static/media/Shot_01.f0dd742df19062f68c1a.jpg",
     "static/media/Featured_AR.jpg": "/static/media/Featured_AR.cc462c3f9e3a6103ad9e.jpg",
     "static/media/Media_Mountain.jpg": "/static/media/Media_Mountain.8b4b2f0b30508699c247.jpg",
     "static/media/Sudoku_Featured.png": "/static/media/Sudoku_Featured.f104d39379d2e67ca0b5.png",
     "static/media/SingleRing.mp4": "/static/media/SingleRing.9a35f4fc718b7852b591.mp4",
-    "static/media/FordETransit_05.jpg": "/static/media/FordETransit_05.7644f31b1d7b82a7ada2.jpg",
     "static/media/Media_Desert_02.jpg": "/static/media/Media_Desert_02.40755c9e864cb7ac9aa2.jpg",
     "static/media/DS_SMY002_07.jpg": "/static/media/DS_SMY002_07.9e92a134f407e07f9181.jpg",
     "static/media/BSplineFeatured.jpg": "/static/media/BSplineFeatured.46fe613f0277ccd736a2.jpg",
@@ -52,9 +52,10 @@
     "static/media/FordExplorer_05.jpg": "/static/media/FordExplorer_05.8dc1a7171db7d845aa86.jpg",
     "static/media/FordETransit_02.jpg": "/static/media/FordETransit_02.8930bd8842b9da69cd10.jpg",
     "static/media/Interior_08.jpg": "/static/media/Interior_08.55bd6a65c1cb36d0d215.jpg",
-    "static/media/FordETransit_04.jpg": "/static/media/FordETransit_04.43aa613a703581a3a099.jpg",
+    "static/media/FordETransit_06.jpg": "/static/media/FordETransit_06.69bd18de9cd41af770fe.jpg",
     "static/media/FordETransit_03.jpg": "/static/media/FordETransit_03.9f510eabd8ccfc5ef3ba.jpg",
     "static/media/Noise.png": "/static/media/Noise.7157cbf19228b8894301.png",
+    "static/media/FordETransit_08.jpg": "/static/media/FordETransit_08.0e8b4ad2cb89fa1203d8.jpg",
     "static/media/Noise.gif": "/static/media/Noise.5cb9840d9fea359331fc.gif",
     "static/media/FordExplorer_03.jpg": "/static/media/FordExplorer_03.1f58ee93f8afb261f292.jpg",
     "static/media/FordExplorer_01.jpg": "/static/media/FordExplorer_01.339865fb4cffa55d5a2c.jpg",
@@ -115,8 +116,8 @@
     "static/media/Blueprint.jpg": "/static/media/Blueprint.a58613b16e29ab1ca814.jpg",
     "static/media/Solvable_03.png": "/static/media/Solvable_03.162d4c1ad50a15fb34d6.png",
     "index.html": "/index.html",
-    "main.836c6803.css.map": "/static/css/main.836c6803.css.map",
-    "main.49348c01.js.map": "/static/js/main.49348c01.js.map",
+    "main.c6928456.css.map": "/static/css/main.c6928456.css.map",
+    "main.5a46c7b0.js.map": "/static/js/main.5a46c7b0.js.map",
     "235.f6d2763c.chunk.css.map": "/static/css/235.f6d2763c.chunk.css.map",
     "235.7c03f804.chunk.js.map": "/static/js/235.7c03f804.chunk.js.map",
     "499.8e42821b.chunk.css.map": "/static/css/499.8e42821b.chunk.css.map",
@@ -126,7 +127,7 @@
     "787.d3fd115d.chunk.js.map": "/static/js/787.d3fd115d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.836c6803.css",
-    "static/js/main.49348c01.js"
+    "static/css/main.c6928456.css",
+    "static/js/main.5a46c7b0.js"
   ]
 }
